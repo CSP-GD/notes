@@ -1,5 +1,6 @@
 # SpaceVim 安裝筆記(以 typescript 環境為例)
 ## 一. Windows Subsystem for Linux
+### 安裝 SpaceVim
 更新套件管理庫
 ```bash
 sudo apt update&&upgrade
@@ -50,5 +51,44 @@ pip3 install neovim
 sudo npm i -g neovim
 ```
 若出現部分字體無法顯示的問題，可由安裝 nerd font 字體解決(在此提供 [Sauce Code Pro Nerd Font](https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/SourceCodePro/Regular/complete/Sauce%20Code%20Pro%20Nerd%20Font%20Complete.ttf))，安裝完後將終端機的字體設定為"SauceCodePro Nerd Font"即可顯示完整字體。
+
+### 設定 SpaceVim
+執行`nvim`進入 SpaceVim
+
+依序按下<kbd>SPC</kbd> <kbd>f</kbd> <kbd>v</kbd> <kbd>d</kbd>開啟 SpaceVim 設定檔( ~/.SpaceVim.d/init.toml)
+```toml
+[options] # 於 options 加入以下的設定
+    # 使用 deoplete 作為自動補全引擎
+    autocomplete_method = "deoplete"
+    # 使用 ale 作為程式碼檢測工具
+    enable_neomake = false
+    enable_ale = true
+    
+[[layers]] # 增加格式化模組
+    name = "format"
+```
+
+### 特定語言支持
+
+#### typescript
+```toml
+[[layers]]
+    name = "lang#typescript"
+```
+另外需安裝 typescript
+```bash
+npm i -g typescript
+```
+
+#### javascript
+```toml
+[[layers]]
+    name = "lang#typescript"
+```
+另外可安裝 eslint-cli 與 js-beautify 完成語法檢查與代碼格式化
+```bash
+npm i -g eslint-cli
+npm i -g js-beautify
+```
 ## 二. Termux
 #### 詳見 https://github.com/CSP-GD/notes/blob/master/termux/README.md
