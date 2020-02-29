@@ -241,7 +241,7 @@ sudo apt install -y nodejs ## 接著由 apt 去安裝
 ```
 
 JavaScript 上實現對於佇列操作對應函數使用範例：
-```javascript=
+```javascript
 var List1 = [2,3,6,9,11];         //原始資料(當成佇列)
 List1.push(4);                    //在堆放入4
 console.log(List1);               //在此將輸出：  [2, 3, 6, 9, 11, 4]
@@ -251,7 +251,7 @@ console.log(List1);               //在此將輸出： [3, 6, 9, 11, 4]
 ```
 
 JavaScript 上實現對於堆疊操作對應函數使用範例：
-```javascript=
+```javascript
 var Stack1 = [2,3,6,9,11];     //原始資料(當成堆疊)
 Stack1.push(4);                //在堆放入4
 console.log(Stack1);           //在此將輸出： [2, 3, 6, 9, 11, 2]
@@ -295,7 +295,7 @@ console.log(Stack1);           //在此將輸出： [2, 3, 6, 9, 11]
       
  ```
  而在結構上使用物件儲存資料：
- ```javascript=
+ ```javascript
 var Tree = [];
 
 var Node = {
@@ -310,7 +310,7 @@ var Node = {
     
 * **圖**
     * 這部份也只能像是弄樹的節點一樣，用各索引方式來連接，姑且筆者在打這段時一時半刻想不到其他好的方法。
-```javascript=
+```javascript
 //在此已有雙向連結的圖為範例：
 var Node = {
   Data             : "ABC"        , //該節點儲存資料
@@ -333,7 +333,7 @@ var Node = {
 好的物件導向設計能讓專案程式碼簡潔且易於擴充，而在 JavaScript 上實現物件導向的概念也滿容易的。
 
 運用將其設定為物件初始化，並運用新增成員方式建立 data 與 function：
-```javascript=
+```javascript
 var Human = new Object;
 
 Human.data ={
@@ -355,7 +355,7 @@ Human.event ={
 ```
 
 用最基礎的方式達到繼承（非最佳方法）：
-```javascript=
+```javascript
 var Human = new Object;
 
 Human.data ={
