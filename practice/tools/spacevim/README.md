@@ -95,4 +95,4 @@ npm i -g js-beautify
 ## 二. Termux
 ![](./images/termux%20spacevim.jpg)
 
-#### 詳見 https://github.com/CSP-GD/notes/blob/master/termux/README.md
+#### 詳見 [Termux 安裝與設定](../termux/README.md)
