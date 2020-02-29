@@ -2,10 +2,10 @@
 
 ---
 
-> ### [工具](./practice/tool/)
->> #### [SpaceVim](./practice/tool/spacevim/)
+> ### [工具](./tool/)
+>> #### [SpaceVim](./tool/spacevim/)
 >>
->> #### [Termux](./practice/tool/termux/)
+>> #### [Termux](./tool/termux/)
 >
 > ### 程式語言
 >
