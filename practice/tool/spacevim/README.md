@@ -3,7 +3,7 @@
 
 ---
 
-# SpaceVim 安裝筆記(以 typescript 環境為例)
+# SpaceVim 安裝筆記(以 TypeScript 環境為例)
 ## 一. Windows Subsystem for Linux
 ![](./images/wsl_spacevim.png)
 
@@ -12,7 +12,7 @@
 ```bash
 sudo apt update&&upgrade
 ```
-安裝 python 與 nodejs
+安裝 Python 與 Node.js
 ```bash
 sudo apt install python
 sudo apt install python-pip
@@ -20,7 +20,7 @@ sudo apt install python3
 sudo apt install python3-pip
 sudo apt install nodejs
 ```
-更新 nodejs
+更新 Node.js
 ```bash
 sudo npm cache clean -f
 sudo npm install -g n
@@ -77,20 +77,20 @@ sudo npm i -g neovim
 
 ### 特定語言支持
 
-#### typescript
+#### TypeScript
 ```toml
 [[layers]]
     name = "lang#typescript"
 ```
-另外需安裝 typescript
+另外需安裝 TypeScript
 ```bash
 npm i -g typescript
 ```
 
-#### javascript
+#### JavaScript
 ```toml
 [[layers]]
-    name = "lang#typescript"
+    name = "lang#javascript"
 ```
 另外可安裝 eslint-cli 與 js-beautify 完成語法檢查與代碼格式化
 ```bash

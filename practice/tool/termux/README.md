@@ -19,12 +19,12 @@ pkg update&&upgrade
 ### 2. 安裝常用套件
 ```bash
 pkg install proot # 模擬 root
-pkg install git # 安裝 git
+pkg install git # 安裝 Git
 pkg install wget # 安裝 wget
 pkg install make # 安裝 make
-pkg install python # 安裝 python
+pkg install python # 安裝 Python
 pip install --upgrade pip # 更新 pip
-pkg install nodejs # 安裝 nodejs
+pkg install nodejs # 安裝 Node.js
 npm install npm -g # 更新 npm
 ```
 
@@ -109,20 +109,20 @@ npm i -g neovim
 
 ### 4. 特定語言支持
 
-#### typescript
+#### TypeScript
 ```toml
 [[layers]]
     name = "lang#typescript"
 ```
-另外需安裝 typescript
+另外需安裝 TypeScript
 ```bash
 npm i -g typescript
 ```
 
-#### javascript
+#### JavaScript
 ```toml
 [[layers]]
-    name = "lang#typescript"
+    name = "lang#javascript"
 ```
 另外可安裝 eslint-cli 與 js-beautify 完成語法檢查與代碼格式化
 ```bash
