@@ -1,5 +1,7 @@
 # [目錄](../../../) >> [實務篇](../../) >> [工具](../) >> SpaceVim
->
+> SpaceVim 是一款模塊化的 vim IDE
+
+---
 
 # SpaceVim 安裝筆記(以 typescript 環境為例)
 ## 一. Windows Subsystem for Linux
