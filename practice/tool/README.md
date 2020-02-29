@@ -2,5 +2,5 @@
 
 ---
 
-> #### [SpaceVim](./spacevim/)
-> #### [Termux](./termux/)
+### [SpaceVim](./spacevim/)
+### [Termux](./termux/)
