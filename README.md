@@ -8,19 +8,19 @@
 > **如已爆肝，盡速就醫**
 
 
-## [實務篇](https://csp-gd.github.io/notes/practice/)
+## [實務篇](./practice/)
 
-* ### [工具](https://csp-gd.github.io/notes/practice/tools/)
-    * #### [SpaceVim](https://csp-gd.github.io/notes/practice/tools/spacevim/)
-    * #### [Termux](https://csp-gd.github.io/notes/practice/tools/termux/)
+* ### [工具](./practice/tool/)
+    * #### [SpaceVim](./practice/tool/spacevim/)
+    * #### [Termux](./practice/tool/termux/)
 * ### 程式語言
 * ### 函式庫
 * ### 檔案格式
 
 ---
 
-## 學理篇
+## [學理篇](./theory/)
 
 ---
 
-## 雜談篇
+## [雜談篇](./other/)
