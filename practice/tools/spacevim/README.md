@@ -1,6 +1,6 @@
 # SpaceVim 安裝筆記(以 typescript 環境為例)
 ## 一. Windows Subsystem for Linux
-![](https://csp-gd.github.io/notes/practice/tools/spacevim/images/wsl%20spacevim.png)
+![](./images/wsl%20spacevim.png)
 
 ### 安裝 SpaceVim
 更新套件管理庫
