@@ -1,3 +1,7 @@
+### [目錄](../../../) >> [實務篇](../../) >> [工具](../) >> Termux
+
+---
+
 # Termux安裝與設定
 ## 一、下載
 #### 至 Google Play 下載 [Termux](https://play.google.com/store/apps/details?id=com.termux)
