@@ -25,4 +25,4 @@
 
 ## [雜談篇](./other/)
 
-* ### [從基礎學起程式（以 JavaScript 為例）](./learn_programming_from_the_basics_with_JavaScript_as_an_example/)
+* ### [從基礎學起程式（以 JavaScript 為例）](./other/learn_programming_from_the_basics_with_JavaScript_as_an_example/)
