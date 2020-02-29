@@ -76,6 +76,14 @@ sudo npm i -g neovim
 ```
 
 ### 特定語言支持
+安裝 language-server-protocol
+```toml
+[[layers]] # 增加 language-server-protocol 模組
+    name = "lsp"
+    filetypes = [ # 要支持的語言
+        ...language
+    ]
+```
 
 #### TypeScript
 ```toml
@@ -85,6 +93,10 @@ sudo npm i -g neovim
 另外需安裝 TypeScript
 ```bash
 npm i -g typescript
+```
+安裝 TypeScript Language Server
+```bash
+npm install -g typescript-language-server
 ```
 
 #### JavaScript
@@ -96,6 +108,10 @@ npm i -g typescript
 ```bash
 npm i -g eslint-cli
 npm i -g js-beautify
+```
+安裝 JavaScript Language Server
+```bash
+npm install -g javascript-typescript-langserver
 ```
 ## 二. Termux
 ![](./images/termux_spacevim.jpg)
