@@ -8,8 +8,8 @@
 
 * #### [Termux](./tool/termux/)
 
-### 程式語言
+### [程式語言](./programming_language/)
 
-### 函式庫
+### [函式庫](./library/)
 
-### 檔案格式
+### [檔案格式](./file_format/)

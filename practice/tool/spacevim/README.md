@@ -4,7 +4,7 @@
 
 # SpaceVim 安裝筆記(以 typescript 環境為例)
 ## 一. Windows Subsystem for Linux
-![](./images/wsl%20spacevim.png)
+![](./images/wsl_spacevim.png)
 
 ### 安裝 SpaceVim
 更新套件管理庫
@@ -97,6 +97,6 @@ npm i -g eslint-cli
 npm i -g js-beautify
 ```
 ## 二. Termux
-![](./images/termux%20spacevim.jpg)
+![](./images/termux_spacevim.jpg)
 
 #### 詳見 [Termux 安裝與設定](../termux/README.md)
