@@ -11,9 +11,9 @@
 ## [實務篇](./practice/)
 
 * ### [工具](./practice/tool/)
-* ### 程式語言
-* ### 函式庫
-* ### 檔案格式
+* ### [程式語言](./practice/programming_language/)
+* ### [函式庫](./practice/library/)
+* ### [檔案格式](./practice/file_format/)
 
 ---
 
