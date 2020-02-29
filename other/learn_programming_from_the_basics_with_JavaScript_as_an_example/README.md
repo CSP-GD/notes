@@ -262,11 +262,11 @@ console.log(Stack1);           //在此將輸出： [2, 3, 6, 9, 11]
 
 
 ### 4. 基礎的資料結構特性
-* **樹**：請參照[此連結]( https://zh.wikipedia.org/zh-tw/%E4%BA%8C%E5%8F%89%E6%A0%91)
-* **堆**：請參照[此連結]( https://zh.wikipedia.org/wiki/%E9%93%BE%E8%A1%A8)
-* **圖**：請參照[此連結]( https://zh.wikipedia.org/wiki/%E5%A0%86%E7%A9%8D)
-* **trie**：請參照[此連結]( https://zh.wikipedia.org/wiki/Trie)
-* **Hash**：請參照[此連結]( https://zh.wikipedia.org/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8)
+* **樹**：請參照 [此連結]( https://zh.wikipedia.org/zh-tw/%E4%BA%8C%E5%8F%89%E6%A0%91)
+* **堆**：請參照 [此連結]( https://zh.wikipedia.org/wiki/%E9%93%BE%E8%A1%A8)
+* **圖**：請參照 [此連結]( https://zh.wikipedia.org/wiki/%E5%A0%86%E7%A9%8D)
+* **trie**：請參照 [此連結]( https://zh.wikipedia.org/wiki/Trie)
+* **Hash**：請參照 [此連結]( https://zh.wikipedia.org/wiki/%E5%93%88%E5%B8%8C%E8%A1%A8)
 
 ### 5. 如何在 JavaScript 實現數樹、堆、圖、Hash
 在 C 語言中，而在 JavaScript 中有些實現上有所差別。
