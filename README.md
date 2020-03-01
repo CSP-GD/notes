@@ -34,6 +34,6 @@
 
 > 包含各種經驗分享的雜談篇
 
-* ### [從基礎學起程式（以 JavaScript 為例）](./other/從基礎學起程式(以javascript為例)/README.md)
+* ### [從基礎學起程式（以 JavaScript 為例）](./other/從基礎學起程式_以javascript為例/README.md)
 
 * ### [關於爆肝筆記](./other/關於爆肝筆記/README.md)

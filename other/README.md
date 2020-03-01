@@ -4,7 +4,7 @@
 
 ---
 
-## [從基礎學起程式（以 JavaScript 為例）](./從基礎學起程式(以javascript為例)/README.md)
+## [從基礎學起程式（以 JavaScript 為例）](./從基礎學起程式_以javascript為例/README.md)
 
 ---
 
