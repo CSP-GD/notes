@@ -3,4 +3,4 @@
 
 ---
 
-## [從基礎學起程式（以 JavaScript 為例）](./從基礎學起程式（以 JavaScript 為例）/)
+## [從基礎學起程式（以 JavaScript 為例）](./從基礎學起程式(以javascript為例)/)
