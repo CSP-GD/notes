@@ -1,13 +1,17 @@
-# [目錄](../../../../) >> [實務篇](../../../) >> [工具](../../) >> [SpaceVim](../) >> SpaceVim 安裝筆記（以 TypeScript 環境為例）
+# [目錄](../../../../README.md) >> [實務篇](../../../README.md) >> [工具](../../README.md) >> [SpaceVim](../README.md) >> SpaceVim 安裝筆記（以 TypeScript 環境為例）
+
 > 本篇文章將會講解 SpaceVim 的安裝步驟
 
 ---
 
 # SpaceVim 安裝筆記（以 TypeScript 環境為例）
+
 ## 一. Windows Subsystem for Linux
+
 ![](./images/wsl_spacevim.png)
 
 ### 安裝 SpaceVim
+
 更新套件管理庫
 ```bash
 sudo apt update&&upgrade
