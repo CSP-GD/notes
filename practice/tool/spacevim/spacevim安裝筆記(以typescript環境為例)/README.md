@@ -116,4 +116,4 @@ npm install -g javascript-typescript-langserver
 ## 二. Termux
 ![](./images/termux_spacevim.jpg)
 
-#### 詳見 [Termux 安裝與設定](../termux/README.md)
+#### 詳見 [Termux 安裝與設定](../../termux/termux安裝與設定/README.md)
