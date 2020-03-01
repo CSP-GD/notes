@@ -59,6 +59,20 @@
 
 ---
 
+## Kotlin
+
+* ### [Kotlin Programming Language](https://kotlinlang.org/)
+
+* ### [Kotlin 語言中文站](https://www.kotlincn.net/)
+
+---
+
+## Java
+
+* ### [語言技術：Java Essence](https://openhome.cc/Gossip/JavaEssence/)
+
+---
+
 ## PHP
 
 * ### [PHP: Hypertext Preprocessor](https://www.php.net/)
