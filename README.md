@@ -24,8 +24,6 @@
 
 * ### [使用DevTool](./practice/使用DevTool/README.md)
 
-> 此篇會介紹如何使用Chrome DevTool
-
 ---
 
 ## [學理篇](./theory/README.md)
