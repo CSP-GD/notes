@@ -100,8 +100,8 @@
   <tr>
     <td>從基礎學起程式（以 JavaScript 為例）</td>
     <td style="text-align: center;">雜談篇</td>
-    <td style="text-align: center;">？？？</td>
-    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">基礎級</td>
+    <td style="text-align: center;">100%</td>
     <td style="text-align: center;">無</td>
   </tr>
   <tr>
