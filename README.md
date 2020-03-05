@@ -107,15 +107,15 @@
   <tr>
     <td>關於爆肝筆記</td>
     <td style="text-align: center;">雜談篇</td>
-    <td style="text-align: center;">？？？</td>
-    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">不適用</td>
+    <td style="text-align: center;">100%</td>
     <td style="text-align: center;">無</td>
   </tr>
   <tr>
     <td>一些網頁開發好用的程式庫或框架</td>
-    <td>雜談篇</td>
-    <td>不適用</td>
-    <td>80%</td>
-    <td>無</td>
+    <td style="text-align: center;">雜談篇</td>
+    <td style="text-align: center;">不適用</td>
+    <td style="text-align: center;">80%</td>
+    <td style="text-align: center;">無</td>
   </tr>
 </table>
