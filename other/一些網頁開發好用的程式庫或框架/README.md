@@ -1,4 +1,4 @@
-# 前端
+# 有用的前端庫
 ## 手機相關
 * [TouchSwipe-Jquery-Plugin](https://github.com/mattbryson/TouchSwipe-Jquery-Plugin)：簡單的實現手機滑動。
 
@@ -50,7 +50,7 @@
 
 * [stdlib.js](https://github.com/stdlib-js/stdlib)：基本數學運算的庫。
 
-## 主流JS框架與其相關衍生
+## Vue.js框架與其相關衍生
 * [vue](https://github.com/vuejs/vue)：三大常用的JS框架，相對簡單入門。
 
 * [vue-router](https://github.com/vuejs/vue-router)：Vue的子路由控制。
@@ -63,8 +63,10 @@
 
 * [nuxt.js](https://github.com/nuxt/nuxt.js)：通用應用程式的元框架。
 
+## React.js框架與其相關衍生
 * [React](https://github.com/facebook/react)：三大常用的JS框架，FaceBook開發的。
 
+## Angular.js框架與其相關衍生
 * [Angular](https://github.com/angular)：三大常用的JS框架，Google開發的，完整的落實MVC。
 
 ## 前端排版與界面框架
@@ -87,11 +89,6 @@
 ## 鍵盤捕捉
 * [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS)：鍵盤偵測用的庫。
 
-## 鍵盤視窗程式設計
-* [electron.js](https://github.com/electron/electron)：Node.js做桌面應用的框架。
-
-* [nw.js](https://github.com/nwjs/nw.js/)：同electron，都是用於做桌面應用的庫，但比大小electron輕。
-
 ## 多語言支援
 * [jQuery.i18n](https://github.com/wikimedia/jquery.i18n)：網頁語言國際化支援。
 
@@ -113,6 +110,11 @@
 ## TG-Bot設計
 * [Telegram Bot API for NodeJS](https://github.com/yagop/node-telegram-bot-api)：用Node.js寫Telegram機器人。
 
-# 後端
+# 有用的後端庫
 ## 管理面板
 * [Go管理面板](https://github.com/GoAdminGroup/go-admin)：Go語言Server管理用的面板。
+
+## 鍵盤視窗程式設計
+* [electron.js](https://github.com/electron/electron)：Node.js做桌面應用的框架。
+
+* [nw.js](https://github.com/nwjs/nw.js/)：同electron，都是用於做桌面應用的庫，但比大小electron輕。
