@@ -50,66 +50,66 @@
 <table>
   <tr>
     <th>書籍名稱</th>
-    <th>分類</th>
-    <th>難度</th>
-    <th>進度</th>
-    <th>補充</th>
+    <th style="text-align: center;">分類</th>
+    <th style="text-align: center;">難度</th>
+    <th style="text-align: center;">進度</th>
+    <th style="text-align: center;">補充</th>
   </tr>
   <tr>
     <td>工具</td>
-    <td>實務篇</td>
-    <td>？？？</td>
-    <td>0%</td>
-    <td>無</td>
+    <td style="text-align: center;">實務篇</td>
+    <td style="text-align: center;">？？？</td>
+    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">無</td>
   </tr>
   <tr>
     <td>程式語言</td>
-    <td>實務篇</td>
-    <td>？？？</td>
-    <td>0%</td>
-    <td>無</td>
+    <td style="text-align: center;">實務篇</td>
+    <td style="text-align: center;">？？？</td>
+    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">無</td>
   </tr>
   <tr>
     <td>函式庫</td>
-    <td>實務篇</td>
-    <td>？？？</td>
-    <td>0%</td>
-    <td>無</td>
+    <td style="text-align: center;">實務篇</td>
+    <td style="text-align: center;">？？？</td>
+    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">無</td>
   </tr>
   <tr>
     <td>檔案格式</td>
-    <td>實務篇</td>
-    <td>？？？</td>
-    <td>0%</td>
-    <td>無</td>
+    <td style="text-align: center;">實務篇</td>
+    <td style="text-align: center;">？？？</td>
+    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">無</td>
   </tr>
   <tr>
     <td>使用DevTool</td>
-    <td>實務篇</td>
-    <td>？？？</td>
-    <td>0%</td>
-    <td>無</td>
+    <td style="text-align: center;">實務篇</td>
+    <td style="text-align: center;">？？？</td>
+    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">無</td>
   </tr>
   <tr>
     <td>計算機工程導論</td>
-    <td>學理篇</td>
-    <td>？？？</td>
-    <td>0%</td>
-    <td>無</td>
+    <td style="text-align: center;">學理篇</td>
+    <td style="text-align: center;">？？？</td>
+    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">無</td>
   </tr>
   <tr>
     <td>從基礎學起程式（以 JavaScript 為例）</td>
-    <td>雜談篇</td>
-    <td>？？？</td>
-    <td>0%</td>
-    <td>無</td>
+    <td style="text-align: center;">雜談篇</td>
+    <td style="text-align: center;">？？？</td>
+    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">無</td>
   </tr>
   <tr>
     <td>關於爆肝筆記</td>
-    <td>雜談篇</td>
-    <td>？？？</td>
-    <td>0%</td>
-    <td>無</td>
+    <td style="text-align: center;">雜談篇</td>
+    <td style="text-align: center;">？？？</td>
+    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">無</td>
   </tr>
   <tr>
     <td>一些網頁開發好用的程式庫或框架</td>
