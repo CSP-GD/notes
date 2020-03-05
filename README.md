@@ -1,8 +1,3 @@
-<style>
-.text-center{
-    text-align: center;
-    }
-</style>
 # 爆肝筆記
 
 > **欲練此功，必先爆肝** 
@@ -55,65 +50,65 @@
 <table>
   <tr>
     <th>書籍名稱</th>
-    <th class="text-center">分類</th>
-    <th class="text-center">難度</th>
-    <th class="text-center">進度</th>
-    <th class="text-center">補充</th>
+    <th style="text-align: center;">分類</th>
+    <th style="text-align: center;">難度</th>
+    <th style="text-align: center;">進度</th>
+    <th style="text-align: center;">補充</th>
   </tr>
   <tr>
     <td>工具</td>
-    <td class="text-center">實務篇</td>
-    <td class="text-center">？？？</td>
-    <td class="text-center">0%</td>
-    <td class="text-center">無</td>
+    <td style="text-align: center;">實務篇</td>
+    <td style="text-align: center;">？？？</td>
+    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">無</td>
   </tr>
   <tr>
     <td>程式語言</td>
-    <td class="text-center">實務篇</td>
-    <td class="text-center">？？？</td>
-    <td class="text-center">0%</td>
-    <td class="text-center">無</td>
+    <td style="text-align: center;">實務篇</td>
+    <td style="text-align: center;">？？？</td>
+    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">無</td>
   </tr>
   <tr>
     <td>函式庫</td>
-    <td class="text-center">實務篇</td>
-    <td class="text-center">？？？</td>
-    <td class="text-center">0%</td>
-    <td class="text-center">無</td>
+    <td style="text-align: center;">實務篇</td>
+    <td style="text-align: center;">？？？</td>
+    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">無</td>
   </tr>
   <tr>
     <td>檔案格式</td>
-    <td class="text-center">實務篇</td>
-    <td class="text-center">？？？</td>
-    <td class="text-center">0%</td>
-    <td class="text-center">無</td>
+    <td style="text-align: center;">實務篇</td>
+    <td style="text-align: center;">？？？</td>
+    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">無</td>
   </tr>
   <tr>
     <td>使用DevTool</td>
-    <td class="text-center">實務篇</td>
-    <td class="text-center">？？？</td>
-    <td class="text-center">0%</td>
-    <td class="text-center">無</td>
+    <td style="text-align: center;">實務篇</td>
+    <td style="text-align: center;">？？？</td>
+    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">無</td>
   </tr>
   <tr>
     <td>計算機工程導論</td>
-    <td class="text-center">學理篇</td>
-    <td class="text-center">？？？</td>
-    <td class="text-center">0%</td>
-    <td class="text-center">無</td>
+    <td style="text-align: center;">學理篇</td>
+    <td style="text-align: center;">？？？</td>
+    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">無</td>
   </tr>
   <tr>
     <td>從基礎學起程式（以 JavaScript 為例）</td>
-    <td class="text-center">雜談篇</td>
-    <td class="text-center">？？？</td>
-    <td class="text-center">0%</td>
-    <td class="text-center">無</td>
+    <td style="text-align: center;">雜談篇</td>
+    <td style="text-align: center;">？？？</td>
+    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">無</td>
   </tr>
   <tr>
     <td>關於爆肝筆記</td>
-    <td class="text-center">雜談篇</td>
-    <td class="text-center">？？？</td>
-    <td class="text-center">0%</td>
-    <td class="text-center">無</td>
+    <td style="text-align: center;">雜談篇</td>
+    <td style="text-align: center;">？？？</td>
+    <td style="text-align: center;">0%</td>
+    <td style="text-align: center;">無</td>
   </tr>
 </table>
