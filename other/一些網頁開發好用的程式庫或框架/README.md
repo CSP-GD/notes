@@ -69,6 +69,8 @@
 
 * [nuxt.js](https://github.com/nuxt/nuxt.js)：通用應用程式的元框架。
 
+* [vue-i18n](https://github.com/kazupon/vue-i18n)：在Vue上實現多語言支援。
+
 ## React.js框架與其相關衍生
 * [React](https://github.com/facebook/react)：三大常用的JS框架，FaceBook開發的。
 
