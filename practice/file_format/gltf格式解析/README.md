@@ -17,6 +17,6 @@
   <tr>
     <td>Mesh 篇</td>
     <td style="text-align: center;"></td>
-    <td style="text-align: center;"><a href="https://observablehq.com/@toonnyy8/gltf/4">link</a></td>
+    <td style="text-align: center;"><a href="https://observablehq.com/@toonnyy8/gltf-mesh">link</a></td>
   </tr>
 </table>
