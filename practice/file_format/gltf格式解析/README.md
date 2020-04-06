@@ -15,6 +15,11 @@
     <td style="text-align: center;"><a href="https://observablehq.com/@toonnyy8/gltf">link</a></td>
   </tr>
   <tr>
+    <td>Accessor 篇</td>
+    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><a href="https://observablehq.com/@toonnyy8/gltf-accessor">link</a></td>
+  </tr>
+  <tr>
     <td>Mesh 篇</td>
     <td style="text-align: center;"></td>
     <td style="text-align: center;"><a href="https://observablehq.com/@toonnyy8/gltf-mesh">link</a></td>
