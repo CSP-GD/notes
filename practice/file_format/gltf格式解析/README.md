@@ -12,7 +12,7 @@
   <tr>
     <td>開篇 -- glb 解析</td>
     <td style="text-align: center;"><a href="./glb/glb.ipynb">link</a></td>
-    <td style="text-align: center;"><a href="https://observablehq.com/@toonnyy8/gltf/3">link</a></td>
+    <td style="text-align: center;"><a href="https://observablehq.com/@toonnyy8/gltf">link</a></td>
   </tr>
   <tr>
     <td>Mesh 篇</td>
