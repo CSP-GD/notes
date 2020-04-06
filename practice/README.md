@@ -30,6 +30,8 @@
 ## [檔案格式](./file_format/README.md)
 > 檔案格式
 
+* ### [gltf 格式解析](./file_format/gltf格式解析/README.md)
+
 ---
 
 ## [使用DevTool](./使用DevTool/README.md)
