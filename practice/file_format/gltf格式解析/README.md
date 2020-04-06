@@ -14,4 +14,9 @@
     <td style="text-align: center;"><a href="./glb/glb.ipynb">link</a></td>
     <td style="text-align: center;"><a href="https://observablehq.com/@toonnyy8/gltf/3">link</a></td>
   </tr>
+  <tr>
+    <td>Mesh 篇</td>
+    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><a href="https://observablehq.com/@toonnyy8/gltf/4">link</a></td>
+  </tr>
 </table>
