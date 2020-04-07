@@ -20,6 +20,11 @@
     <td style="text-align: center;"><a href="https://observablehq.com/@toonnyy8/gltf-concept">link</a></td>
   </tr>
   <tr>
+    <td>Scene & Node 篇</td>
+    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><a href="https://observablehq.com/@toonnyy8/gltf-scene-node/9">link</a></td>
+  </tr>
+  <tr>
     <td>Accessor 篇</td>
     <td style="text-align: center;"></td>
     <td style="text-align: center;"><a href="https://observablehq.com/@toonnyy8/gltf-accessor">link</a></td>
