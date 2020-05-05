@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>Mesh 篇</td>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><a href="https://colab.research.google.com/github/CSP-GD/notes/blob/master/practice/file_format/gltf格式解析/mesh/mesh.ipynb">link</a></td>
     <td style="text-align: center;"><a href="https://observablehq.com/@toonnyy8/gltf-mesh">link</a></td>
   </tr>
 </table>
