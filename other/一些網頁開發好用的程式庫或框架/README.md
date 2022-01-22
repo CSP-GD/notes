@@ -16,6 +16,7 @@
 * [nightwatch.js](https://github.com/nightwatchjs/nightwatch)：自動化測試的庫。
 
 * [jest.js](https://github.com/facebook/jest)：JacaScript執行單元測試與效能分析。
+  * [ts-jest](https://github.com/kulshekhar/ts-jest)：支援的jest能使用typescript規範的工具。
 
 ## 網頁打包
 * [parcel](https://github.com/parcel-bundler/parcel)：前端網頁打包工具。
@@ -46,6 +47,14 @@
 * [wavesurfer.js](https://github.com/katspaugh/wavesurfer.js)：可視化的音樂播放器的庫。
 
 * [Tone.js](https://github.com/Tonejs/Tone.js/)：基於Web Audio API的音訊處理的庫。
+
+## 資料庫工具
+* [typeorm](https://github.com/typeorm/typeorm)：Object Relational Mapping Tool，將資料庫資料抽象化，實現物件型態的資料庫操作。
+  * [typeorm-i18n](https://github.com/vlzh/typeorm-i18n)： typeORM支援的i18n資料儲存工具。
+  * [typeorm-transactional-cls-hooked](https://github.com/odavid/typeorm-transactional-cls-hooked)：針對特定區域程式碼進行transaction操作，已確保操作失敗後能還原。
+  * [typeorm-uml](https://github.com/eugene-manuilov/typeorm-uml)：自動將資料Entity轉成UML圖表的工具。
+
+* [prisma](https://github.com/prisma/prisma)：Object Relational Mapping Tool，將資料庫資料抽象化，實現物件型態的資料庫操作。
 
 ## 數學相關
 * [sigma.js](https://github.com/jacomyal/sigma.js)：圖形（數學那種的'圖論'的圖）繪製用的庫。
